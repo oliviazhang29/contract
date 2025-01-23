@@ -197,4 +197,6 @@ Here is my planned schedule. Note: There is a conference from April 14 to 17 tha
   `r if(params$labs>=13) paste0(" - Finish Lab 13 by ",startweek,": ",advdate(dayone, 15, assignment=startweek))`
   - Finish portfolio pieces 7 and 8 by `r startweek`:  `r advdate(dayone, 15, assignment=startweek)`
 - [ ] `r advdate(dayone, 14, topic)`
-  - Finish portfolio piece
+  - Finish portfolio piece 9 by `r startweek`:  `r advdate(dayone, 16, assignment=startweek)`
+- [ ] `r advdate(dayone, 15, topic)`
+  - Finish portfolio piece 10 by `r startweek`:  `r advdate(dayone, 17, assignment=startweek)`
